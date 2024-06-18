@@ -1,7 +1,5 @@
 /* Hacer un programa que determine si los valores almacenados en
 un arreglo de enteros se encuentran en orden ascendente. */
-
-
 public class Ejercicio3 {
 
     final static int MAX = 8;
